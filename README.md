@@ -1,5 +1,5 @@
 # CoreTopics-AI
-# Empathic Medical Message Rewriter (TinyLlama)
+Empathic Medical Message Rewriter (TinyLlama)
 
 This repo contains the code for my Core Topics: AI assignment.
 
