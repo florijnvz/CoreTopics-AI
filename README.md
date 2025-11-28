@@ -1,7 +1,7 @@
 # CoreTopics-AI
 # Empathic Medical Message Rewriter (TinyLlama)
 
-This repo contains the code for my Core Topics in AI assignment.
+This repo contains the code for my Core Topics: AI assignment.
 
 - `EmpathyRewriter.ipynb` – main notebook:
   - loads TinyLlama-1.1B-Chat,
